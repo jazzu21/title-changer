@@ -1,1 +1,1 @@
-Just add before </body>
+Just add before body
